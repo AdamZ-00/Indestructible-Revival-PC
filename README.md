@@ -1,6 +1,6 @@
-# Indestructible Revival (v3.0.0 — PC)
+# Indestructible Revival
 
-Play **Indestructible** (v3.0.0) on a Windows PC using an Android emulator.
+Play **Indestructible** on a Windows PC using an Android emulator.
 
 ---
 
