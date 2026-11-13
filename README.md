@@ -1,6 +1,6 @@
-# Indestructible Revival
+# Indestructible (Glu Mobile, 2012) — Windows PC
 
-Play **Indestructible** — the classic 2012 mobile vehicular combat / car battle game by **Glu Mobile** (delisted from app stores years ago) — on a Windows PC using an Android emulator.
+Play the original **Indestructible** — the classic 2012 mobile vehicular combat / car battle game by **Glu Mobile** (delisted from app stores years ago) — on a Windows PC using an Android emulator.
 
 Solo modes work offline out of the box, and private multiplayer rooms can be hosted using your own Photon App ID.
 
@@ -52,6 +52,6 @@ Download the ready-to-play package (`Indestructible_Revival_PC_v1.0.zip`) from t
 ## Transparency & Package Contents
 
 - [`INSTALL_GAME.bat`](INSTALL_GAME.bat) — Plain-text Windows ADB installer (fully readable in this repository).
-- [`src/`](src/) — Custom revival UI scripts (`PhotonAppIDPrompt.cs`, `CustomMatchPrompt.cs`) and the patch tool used on `Assembly-CSharp.dll`.
+- [`src/`](src/) — Custom multiplayer UI scripts (`PhotonAppIDPrompt.cs`, `CustomMatchPrompt.cs`) and the patch tool used on `Assembly-CSharp.dll`.
 - `tools/` — Official Google Android SDK Platform-Tools (`adb.exe`, digitally signed by **Google LLC** — verify via *Right-click > Properties > Digital Signatures*).
 - `com.glu.indestructible.standalone.apk` & `main.300.com.glu.indestructible.obb` — Game binaries included in the Release ZIP *(original assets belong to their respective copyright holders)*.
