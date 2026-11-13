@@ -1,0 +1,21 @@
+# Proprietary game binaries & release archives (distributed via Releases)
+*.apk
+*.obb
+*.zip
+*.bak
+
+# Official Google Android SDK Platform-Tools (bundled inside the release ZIP)
+tools/
+
+# Local test extraction folder (if extracted inside workspace)
+Indestructible_Revival_PC/
+
+# Local user configs, Photon IDs, and signing keys
+photon_appid.txt
+server_ip.txt
+*.keystore
+*.jks
+
+# .NET build artifacts
+bin/
+obj/
