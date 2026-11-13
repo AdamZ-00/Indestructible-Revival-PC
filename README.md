@@ -1,6 +1,8 @@
 # Indestructible Revival
 
-Play **Indestructible** on a Windows PC using an Android emulator.
+Play **Indestructible** — the classic 2012 mobile vehicular combat / car battle game by **Glu Mobile** (delisted from app stores years ago) — on a Windows PC using an Android emulator.
+
+Solo modes work offline out of the box, and private multiplayer rooms can be hosted using your own Photon App ID.
 
 ---
 
